@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @theodtasia, i have just graduated from csd auth.
-- 👀 I’m interested in web development and data science.
-- 🌱 I’m starting my MSc at October and i am currently learning new frameworks.
+ Hi there, I’m @theodtasia, i have just graduated from csd auth.
+ My interests are Data Science and Artificial Intelligence.
+ I’m starting my MSc at October and i am currently learning new frameworks.
 
 
 <!---
