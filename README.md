@@ -1,6 +1,6 @@
- Hi there, I’m @theodtasia, i have just graduated from csd auth.
+ Hi there, I’m @theodtasia, i am a postgraduate student at Msc Data and Web Science from csd auth.
  My interests are Data Science and Artificial Intelligence.
- I’m starting my MSc at October and i am currently learning new frameworks.
+ I am currently working as a Frontend Developer using Vue frameweork.
 
 
 <!---
