@@ -1,4 +1,4 @@
- Hi there, I’m @theodtasia, i am a Frontend Developer using Vue frameweork.
+ Hi there, I’m @theodtasia, i am a Frontend Developer using Vue framework.
 
 <!---
 theodtasia/theodtasia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
